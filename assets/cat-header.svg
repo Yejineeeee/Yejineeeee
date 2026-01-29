@@ -1,7 +1,6 @@
-<!-- assets/cat-header.svg -->
+<!-- assets/cat-header.svg (transparent bg) -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
   <defs>
-    <!-- 왼쪽(민트) -->
     <linearGradient id="mint" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%"  stop-color="#2EF2C7"/>
       <stop offset="55%" stop-color="#36C7FF"/>
@@ -10,7 +9,6 @@
       <animate attributeName="x2" values="0;1200"  dur="5.5s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- 오른쪽(핑크/보라) -->
     <linearGradient id="pink" x1="600" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%"  stop-color="#B35CFF"/>
       <stop offset="55%" stop-color="#FF6EC7"/>
@@ -19,7 +17,6 @@
       <animate attributeName="x2" values="600;1800" dur="5.5s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- 가운데 텍스트(레인보우) -->
     <linearGradient id="center" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%"  stop-color="#78F724"/>
       <stop offset="35%" stop-color="#36C7FF"/>
@@ -29,9 +26,8 @@
       <animate attributeName="x2" values="0;2400"   dur="6s" repeatCount="indefinite"/>
     </linearGradient>
 
-    <!-- 글로우 -->
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="2.0" result="b"/>
+      <feGaussianBlur stdDeviation="1.2" result="b"/>
       <feMerge>
         <feMergeNode in="b"/>
         <feMergeNode in="SourceGraphic"/>
@@ -40,11 +36,9 @@
   </defs>
 
   <g filter="url(#glow)">
-    <!-- 둥실둥실 -->
     <animateTransform attributeName="transform" type="translate"
       values="0 0; 0 -5; 0 0" dur="2.4s" repeatCount="indefinite"/>
 
-    <!-- 왼쪽 고양이 (더 슬림 + o.o 표정) -->
     <text x="95" y="72"
       font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
       font-size="30"
@@ -57,7 +51,6 @@
       <tspan x="95" dy="38"> [___]</tspan>
     </text>
 
-    <!-- 오른쪽 고양이 -->
     <text x="880" y="72"
       font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
       font-size="30"
@@ -70,7 +63,6 @@
       <tspan x="880" dy="38"> [___]</tspan>
     </text>
 
-    <!-- 가운데: Hello, World! -->
     <text x="600" y="140"
       text-anchor="middle"
       font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
@@ -78,6 +70,14 @@
       font-weight="700"
       fill="url(#center)">
       Hello, World!
+    </text>
+
+    <text x="600" y="200"
+      text-anchor="middle"
+      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+      font-size="34"
+      fill="url(#center)">_
+      <animate attributeName="opacity" values="1;0;1" dur="0.85s" repeatCount="indefinite"/>
     </text>
   </g>
 </svg>
