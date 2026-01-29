@@ -1,26 +1,33 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=🐱&animation=twinkling&fontColor=000000&fontSize=40" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <br/></div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://blog.naver.com/leeil0603> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/leeil0603"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F햄쥐%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YEJINEEEEE/YEJINEEEEE/main/assets/cat-header.svg" width="100%" />
+</p>
+
+## 👋 Contact
+[![Github Badge](https://img.shields.io/badge/-YEJINEEEEE-grey?style=flat&logo=github&logoColor=white)](https://github.com/YEJINEEEEE/)
+[![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/leeil0603)
+
+## 💬 About me
+- 🐹 햄쥐
+- 🧱 Architect (in Minecraft)
+- 📖 I’m currently learning Data analysis
+- 📖 I’m currently learning ML/DL
+
+## 📚 Tech Stack
+### 📋 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## 🎖️ Ranking (Solved.ac)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeil0603)](https://solved.ac/profile/leeil0603)
+
+## 🛠️ GitHub Stats
+<p>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YEJINEEEEE&show_icons=true&include_all_commits=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEJINEEEEE&layout=compact">
+</p>
+
     
 <!--
 **Yejineeeee/Yejineeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
