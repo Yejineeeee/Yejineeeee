@@ -26,7 +26,7 @@
 <p align="center">
   <img
     src="https://github-readme-stats-topaz-pi-76.vercel.app/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats"
-    width="100%"
+    width="50%"
   />
 </p>
 
