@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YEJINEEEEE/YEJINEEEEE/a1b2c3d/assets/cat-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/YEJINEEEEE/YEJINEEEEE/28b4df5/assets/cat-header.svg" width="100%" />
 </p>
 
 ## 👋 Contact
