@@ -24,8 +24,8 @@
 
 ## 🛠️ GitHub Stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YEJINEEEEE&show_icons=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEJINEEEEE&layout=compact&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YEJINEEEEE&show_icons=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YEJINEEEEE&layout=compact&cache_seconds=1800" />
 </p>
 
     
