@@ -25,7 +25,7 @@
 ## 🛠️ GitHub Stats
 <p align="center">
   <img
-    src="https://https://github.com/anuraghazra/github-readme-stats/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats"
+    src="https://github-readme-stats-topaz-pi-76.vercel.app/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats"
     width="100%"
   />
 </p>
