@@ -19,12 +19,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## 🎖️ Ranking (Solved.ac)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeil0603)](https://solved.ac/profile/leeil0603)
+
 ## ⏲️ Work Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## 🎖️ Ranking (Solved.ac)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeil0603)](https://solved.ac/profile/leeil0603)
 
 ## 🛠️ GitHub Stats
 <img src="https://github-readme-stats-topaz-pi-76.vercel.app/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats&cache_seconds=1800" />
