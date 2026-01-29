@@ -39,9 +39,6 @@
     </filter>
   </defs>
 
-  <!-- 배경(투명 원하면 이 줄 삭제) -->
-  <rect width="1200" height="260" rx="26" fill="#0b1020"/>
-
   <g filter="url(#glow)">
     <!-- 둥실둥실 -->
     <animateTransform attributeName="transform" type="translate"
