@@ -23,12 +23,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeil0603)](https://solved.ac/profile/leeil0603)
 
 ## 🛠️ GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats-topaz-pi-76.vercel.app/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats"
-    width="50%"
-  />
-</p>
+<img src="https://github-readme-stats-topaz-pi-76.vercel.app/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats&cache_seconds=1800" />
 
 <!--
 **Yejineeeee/Yejineeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
