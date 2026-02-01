@@ -24,6 +24,15 @@
 
 ## ⏲️ Work Stats
 <!--START_SECTION:waka-->
+
+```txt
+From: 24 January 2026 - To: 31 January 2026
+
+Total Time: 2 hrs 41 mins
+
+Python   2 hrs 41 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->    
 
 ## 🛠️ GitHub Stats
