@@ -7,8 +7,6 @@
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/leeil0603)    
 
 ## 💬 About me
-- 🐹 햄쥐
-- 🧱 Architect (in Minecraft)
 - 📖 I’m currently learning Data analysis
 - 📖 I’m currently learning ML/DL    
 
