@@ -6,16 +6,17 @@
 [![Github Badge](https://img.shields.io/badge/-YEJINEEEEE-grey?style=flat&logo=github&logoColor=white)](https://github.com/YEJINEEEEE/)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/leeil0603)    
 
+    
 ## 📚 Tech Stack
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)    
-
+    
 ## 🎖️ Ranking (Solved.ac)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeil0603)](https://solved.ac/profile/leeil0603)    
-
+    
 ## ⏲️ Work Stats
 <!--START_SECTION:waka-->
 
@@ -31,8 +32,8 @@ Other        17 mins               ███▒░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->    
-
-## 🛠️ GitHub Stats
+    
+## 🛠️ GitHub Stats 
 <img src="https://github-readme-stats-topaz-pi-76.vercel.app/api?username=Yejineeeee&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=2026+Stats&cache_seconds=1800" />    
 
 <!--
