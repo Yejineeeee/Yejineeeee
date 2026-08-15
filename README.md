@@ -6,10 +6,6 @@
 [![Github Badge](https://img.shields.io/badge/-YEJINEEEEE-grey?style=flat&logo=github&logoColor=white)](https://github.com/YEJINEEEEE/)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/leeil0603)    
 
-## 💬 About me
-- 📖 I’m currently learning Data analysis
-- 📖 I’m currently learning ML/DL    
-
 ## 📚 Tech Stack
 ### 📋 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
